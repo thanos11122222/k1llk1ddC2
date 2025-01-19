@@ -1,4 +1,3 @@
-![image-24](https://github.com/lulzddos/Lulzddos/assets/141240416/4adef1a1-ff6e-47f8-9453-1631c702e378)
 
 
 ```sh
@@ -12,7 +11,7 @@
 ```
   ## Menu
 
- ![IMG_20230802_225040](https://github.com/lulzddos/Lulzddos/assets/141240416/ae513a79-73b3-492a-bbda-3688d462e713)
+ 
 
 
   ## Methods
@@ -51,7 +50,7 @@
  
  ## Usage
 ```sh
-DOWNLOAD:  git clone https://github.com/lulzddos/Lulzddos.git
+DOWNLOAD:  git clone https://github.com/lulzddos/k1llk1ddC2
 INSTALL: - python setup.py install or python3 setup.py install
          - with pip:
            pip3 install -r requirements.txt  or  pip install -r requirements.txt
@@ -62,6 +61,5 @@ NOTICE: For bypass work need install lastest verion Chrome
 ```
 ## Contact Developer
 ```sh
-Buy Me a Coffee BTC:1JG2uZB9MBKhPKFMKJvF5VUBNaXfTa1aWv
-discord : lulz7332
+discord : mrsoza1
 ```
